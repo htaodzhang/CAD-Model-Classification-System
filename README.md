@@ -8,9 +8,8 @@ This is a professional 3D CAD model classification platform built with PyQt5 and
 ![System Screenshot](https://github.com/BrepMaster/CAD-Model-Classification-System/raw/main/1.png)
 
 📦 **Download (Windows EXE version)**
-链接: [https://pan.baidu.com/s/your-link](https://pan.baidu.com/s/your-link)
-提取码: xxxx
-
+链接: https://pan.baidu.com/s/19nqyOoqF7ECdOlHPnMVC9g?pwd=b9ax 
+提取码: b9ax
 **温馨提示**
 如果本项目对您有所帮助，欢迎点击右上角 ⭐Star 支持！
 如需在学术或商业用途中使用本项目，请注明出处。
