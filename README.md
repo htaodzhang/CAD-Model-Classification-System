@@ -5,7 +5,7 @@ This is a professional 3D CAD model classification platform built with PyQt5 and
 
 这是一个基于 PyQt5 和 PythonOCC 开发的专业3D CAD模型分类平台，集成了先进的深度学习技术（UV-Net），可对STEP格式的CAD模型进行高精度分类。
 
-![System Screenshot](https://github.com/BrepMaster/CAD-Retrieval-Platform/raw/main/1.png)
+![System Screenshot](https://github.com/BrepMaster/CAD-Model-Classification-System/raw/main/1.png)
 
 📦 **Download (Windows EXE version)**
 链接: [https://pan.baidu.com/s/your-link](https://pan.baidu.com/s/your-link)
